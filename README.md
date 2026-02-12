@@ -15,7 +15,7 @@ real-world projects, and high-quality study materials.
 - Practical AI projects
 
 Learning resources:
-https://oneddl.org/
+https://oneddl.org/video-courses/
 
 ---
 
@@ -25,7 +25,7 @@ https://oneddl.org/
 - AI tools for finance workflows
 
 Recommended materials:
-https://oneddl.org/
+https://oneddl.org/video-courses/it-and-programming-pc/
 
 ---
 
@@ -35,7 +35,7 @@ https://oneddl.org/
 - Self-study learning materials
 
 Browse resources:
-https://oneddl.org/
+https://oneddl.org/e-books/
 
 ---
 
